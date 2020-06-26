@@ -1,0 +1,1 @@
+print("Hail Hashem forever for he alone is God")
